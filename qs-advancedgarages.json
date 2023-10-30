@@ -1,4 +1,7 @@
 {
-    "version": "4.0.0",
-    "descriptions": ["Fixed a bug in qb-radialmenu", "A native error was resolved when removing a vehicle" ]
+    "version": "3.5.9",
+    "descriptions": [
+        "Fixed a bug in qb-radialmenu", 
+        "A native error was resolved when removing a vehicle" 
+    ]
 }
