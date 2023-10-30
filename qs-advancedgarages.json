@@ -1,4 +1,4 @@
 {
     "version": "4.0.0",
-    "descriptions": ["test1", "test2", "test3", "test4" ]
+    "descriptions": ["Fixed a bug in qb-radialmenu", "A native error was resolved when removing a vehicle" ]
 }
